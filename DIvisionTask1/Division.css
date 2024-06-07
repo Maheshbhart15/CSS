@@ -4,10 +4,15 @@
     gap: 10px;
     
 }
+h2{
+    display: center;
+    color: white;
+    margin-left: 75px;
+}
 .div1{
     width: 500px;
     height: 500px;
-background-color: aliceblue;
+background-color:lightslategrey;
 }
 .div2{
   background-color: cadetblue;
