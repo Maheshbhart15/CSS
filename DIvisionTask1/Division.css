@@ -1,0 +1,33 @@
+.main-div{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    
+}
+.div1{
+    width: 500px;
+    height: 500px;
+background-color: aliceblue;
+}
+.div2{
+  background-color: cadetblue;
+  height: 500px;
+  width: 500px;
+}
+.div3{
+  background-color: cornflowerblue;
+  height: 500px;
+  width: 500px;
+}
+.div1:hover
+{
+    background:url('img1dev.jpg');
+}
+.div2:hover
+{
+    background:url('img2dev1.jpg');
+}
+.div3:hover
+{
+    background:url('img3deewaar.jpg');
+}
